@@ -1,4 +1,4 @@
-# 云端存储器 (Cloud Storage)
+# 网聊 (Online Chatting)
 
 > 原网址 / Official URL: https://storage.sharestaging.com/chat
 >
@@ -7,7 +7,7 @@
 
 ## 项目简介
 
-网聊（Online Chatting）是一款网上聊天客户端。本仓库提供 Windows 平台的安装文件下载。
+网聊（Online Chatting）是一款网上聊天工具。本仓库提供 Windows 平台的安装文件下载。
 
 ## 下载与版本说明
 
@@ -60,3 +60,4 @@
 ## 下载地址
 
 - 请点击右侧的 [Releases](https://github.com/fsc11662/cloud-storage-install/releases) 页面下载最新安装包。"# chat_beta" 
+"# chat_beta" 
