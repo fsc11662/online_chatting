@@ -13,7 +13,7 @@
 
 本仓库提供两个 `.exe` 文件，功能完全相同，区别在于**分发与运行方式**。请根据使用场景选择。
 
-### 1. `云端存储器 Setup 1.0.0.exe`（带 Setup）—— 安装包
+### 1. `网聊 Setup 1.0.0.exe`（带 Setup）—— 安装包
 
 **这是什么：** 真正的安装包（Installer）。
 
@@ -23,7 +23,7 @@
 
 **适用场景：** 正式发布给普通用户。普通用户习惯了"下一步、下一步"的安装方式。
 
-### 2. `云端存储器 1.0.0.exe`（不带 Setup）—— 免安装版
+### 2. `网聊 1.0.0.exe`（不带 Setup）—— 免安装版
 
 **这是什么：** 免安装版（Portable / 绿色版）。
 
@@ -59,5 +59,4 @@
 
 ## 下载地址
 
-- 请点击右侧的 [Releases](https://github.com/fsc11662/cloud-storage-install/releases) 页面下载最新安装包。"# chat_beta" 
-"# chat_beta" 
+- 请点击右侧的 [Releases](https://github.com/fsc11662/cloud-storage-install/releases) 页面下载最新安装包。
